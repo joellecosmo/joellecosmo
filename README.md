@@ -1,2 +1,3 @@
 - Hello, my name is Joelle.👋
 - I'm a third-year software engineering student at PSUT.
+- I'm interested in building software that helps users surmount everyday problems.
